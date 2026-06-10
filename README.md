@@ -1,4 +1,4 @@
-#SUBMITTED BY - YUVRAJ 24124046 
+##SUBMITTED BY - YUVRAJ 24124046 
 # Club Connect IITR — Event Media Management Platform
 
 A complete full-stack platform designed for club events and media organization. The app supports event creation, photo/video upload, role-based access, social interactions, AI-generated captions, analytics, and optional cloud storage.
